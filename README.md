@@ -1,2 +1,2 @@
-# automate
-Modular game engine
+# Automate
+A modular game engine
